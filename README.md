@@ -19,3 +19,8 @@
         右键按钮pause->停止动作->on(press){this.名字.gotoAndStop(this.名字._currentframe);}
         右键按钮cont->继续动作->on(press){this.名字.gotoAndPlay(this.名字._currentframe);}
         右键按钮serve->倒退动作->on(press){this.名字.prevFrame();}
+
+# 测试
+
+## 哈哈哈哈
+
