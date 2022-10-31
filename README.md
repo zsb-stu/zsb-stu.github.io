@@ -90,37 +90,30 @@ html:html标签：页面中最大的标签，我们称为跟标签
 
 ​    
 
-​    
-
-</div>
+ 
 
 # 一级
 
-table
-
-<div>
-    <select>
-        <option>1</option>
-        <option>2</option>
-    </select>
-</div>
-
-</div>
+```html
+<select>
+    <option>下拉表单元素</option>
+    <option>2</option>
+</select>
+```
 
 
 
 ## 二级
 
-文本文档
+```html
+<table>
+    <tr>
+        <td>tr行</td>
+        <td>td单元格</td>
+    </tr>
+</table>    
+```
 
-<div>
-    <table>
-        <tr>
-            <td>hello</td>
-            <td>world</td>
-        </tr>
-    </table>    
-</div>
 
 #### 四级
 
@@ -134,6 +127,7 @@ table
             <option>内容</option>
         </select>
     </td>
+</tr>
 ```
 
 
