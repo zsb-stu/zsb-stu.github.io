@@ -24,11 +24,7 @@
 
 ###  标签（可以让页面结构更清晰）名：
 
-          ```html
-          <html>html标签：页面中最大的标签，我们称为跟标签</html>
-          ```
-
-html:html标签：页面中最大的标签，我们称为跟标签
+​          html:html标签：页面中最大的标签，我们称为跟标签
 
 ​          head:文档的头部标签；注意：在head标签中必须设置title标签
 
@@ -90,46 +86,11 @@ html:html标签：页面中最大的标签，我们称为跟标签
 
 ​    
 
- 
+## 表格标签
 
-# 一级
+## 列表标签
 
-```html
-<select>
-    <option>下拉表单元素</option>
-    <option>2</option>
-</select>
-```
-
-
-
-## 二级
-
-```html
-<table>
-    <tr>
-        <td>tr行</td>
-        <td>td单元格</td>
-    </tr>
-</table>    
-```
-
-### 三级
-
-三级标题；
-
-#### 四级
-
-```html
-<tr>
-    <td>下拉表单元素</td>
-    <td><select>
-            <option>内容</option>
-            <option>内容</option>
-        </select>
-    </td>
-</tr>
-```
+## 表单标签
 
 
 
